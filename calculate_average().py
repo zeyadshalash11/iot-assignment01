@@ -9,4 +9,4 @@ def calculate_average(*args):
 # Example usage:
 numbers = [5, 10, 15, 20]
 average = calculate_average(*numbers)
-print("Average:", average)  # Output: Average: 12.5
+print("Average:", average)  
